@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAI-PrashaTh
+- 👋 Hi, I’m @SAI-PrashanTh
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
